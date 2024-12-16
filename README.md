@@ -41,7 +41,7 @@ repo init --depth=1 -u https://github.com/Evolution-X/manifest -b vic --git-lfs
 
 - Clone this repo to .repo/local_manifests for roomservice.xml containing the repositories with the device/vendor/hw trees needed to build for the S20 FE:
 ```
-git clone https://github.com/skye-pa1n/local_manifest.git -b r8q-vic .repo/local_manifests
+git clone https://github.com/skye-pa1n/evo_manifest.git -b r8q-vic .repo/local_manifests
 ```
 
 - Sync all of the repositories in manifests (including EvolutionX manifests):
