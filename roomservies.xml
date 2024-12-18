@@ -10,10 +10,10 @@
 <project name="team-bomb/evo_device_samsung_r8q" path="device/samsung/r8q" remote="gh"/>
 <project name="team-bomb/evo_device_samsung_sm8250-common" path="device/samsung/sm8250-common" remote="gh"/>
 <!--  Vendor tree  -->
-<project name="team-bomb/evo_vendor_samsung_sm8250" path="vendor/samsung" remote="gh"/>
+<project name="ata-kaner/android_vendor_samsung_sm8250" path="vendor/samsung" remote="gh" revision="lineage-21"/>
 <!--  Kernel source  -->
-<project name="team-bomb/evo_kernel_samsung_sm8250" path="kernel/samsung/sm8250" remote="gh"/> 
+<project name="ata-kaner/android_kernel_samsung_sm8250" path="kernel/samsung/sm8250" remote="gh" revision="lineage-21"/> 
 <!--  Hardware Dependencies  -->
-<project name="team-bomb/evo_hardware_samsung" path="hardware/samsung" remote="gh"/>
+<project name="team-bomb/hardware_samsung" path="hardware/samsung" remote="gh"/>
 
 </manifest>
