@@ -67,20 +67,20 @@ cd vendor/evolution-priv/keys/
 - Finally, build as you like.
 ```
 . build/envsetup.sh
-lunch lineage_r8q-ap3a-userdebug
+lunch lineage_r8q-ap4a-userdebug
 m evolution
 ```
 Or
 ```
 . build/envsetup.sh
-lunch lineage_r8q-ap3a-user
+lunch lineage_r8q-ap4a-user
 m evolution
 ```
 - Notes to self:
 PLS dont be stoobid and do clean builds
 ```
 . build/envsetup.sh
-lunch lineage_r8q-ap3a-user
+lunch lineage_r8q-ap4a-user
 m clean
 m evolution
 ```
